@@ -25,15 +25,4 @@ url = "/index.xml"
 name = "Rss订阅"
 weight = 4
 
-[markup]
-  [markup.highlight]
-    codeFences = false
-    guessSyntax = false
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = flase
-    noClasses = flase
-    style = "perldoc"
-    tabWidth = 4
 

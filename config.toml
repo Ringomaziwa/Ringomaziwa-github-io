@@ -27,13 +27,13 @@ weight = 4
 
 [markup]
   [markup.highlight]
-    codeFences = true
+    codeFences = false
     guessSyntax = false
     hl_Lines = ""
     lineNoStart = 1
     lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
+    lineNumbersInTable = flase
+    noClasses = flase
     style = "perldoc"
     tabWidth = 4
 

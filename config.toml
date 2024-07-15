@@ -24,3 +24,10 @@ weight = 2
 url = "/index.xml"
 name = "友谊山丘"
 weight = 4
+
+enableGitalk = true
+[params.gitalk]
+  owner = "user"
+  repo = "repo name"
+  client_id = "your client id"
+  client_secret = "your client secret"

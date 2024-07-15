@@ -22,7 +22,7 @@ weight = 2
 
 [[menu.main]]
 url = "/index.xml"
-name = "友谊山丘"
+name = "Rss订阅"
 weight = 4
 
 enableGiscus = true

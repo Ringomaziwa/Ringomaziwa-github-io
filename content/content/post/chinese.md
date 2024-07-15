@@ -1,6 +1,5 @@
 ---
-date: 2024-7-16
-description: 
+date: 
 featured_image: "static/static/images/1.jpg"
 title: "繁花中的苹果树"
 

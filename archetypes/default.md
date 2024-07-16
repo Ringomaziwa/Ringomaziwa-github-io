@@ -1,6 +1,7 @@
 ---
 title: ""
-date:
+lastmod: 
+date: '{{ .Date }}' 
 description: ""
 tags: []
 featured_image: ""

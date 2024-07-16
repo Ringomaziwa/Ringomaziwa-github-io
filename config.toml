@@ -3,6 +3,7 @@ DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, 
 languageCode = "en-us"
 title = "苹果乐园"
 theme = "diary"
+date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
 
 [[menu.main]]
 url = "/categories"

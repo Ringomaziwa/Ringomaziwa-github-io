@@ -3,7 +3,6 @@ DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, 
 languageCode = "en-us"
 title = "苹果乐园"
 theme = "diary"
-# googleAnalytics = "UA-123-45"
 
 [[menu.main]]
 url = "/categories"
@@ -25,4 +24,6 @@ url = "/index.xml"
 name = "Rss订阅"
 weight = 4
 
+[params]
+enableReadingTime=true
 

@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/Ringomaziwa-github-io/categories/%E6%9D%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>繁花中的苹果树</title>
-      <link>http://localhost:1313/Ringomaziwa-github-io/posts/my-first-post/</link>
+      <link>http://localhost:1313/Ringomaziwa-github-io/posts/</link>
       <pubDate>Wed, 17 Jul 2024 01:55:26 +0800</pubDate>
-      <guid>http://localhost:1313/Ringomaziwa-github-io/posts/my-first-post/</guid>
-      <description>好感动 时间也修改成功了</description>
+      <guid>http://localhost:1313/Ringomaziwa-github-io/posts/</guid>
+      <description>你们的生命是鸟的飞行， 在寂静中开始和结束 ——开始和结束， 其形式重复着从白桦树到苹果树的这条弧线。</description>
     </item>
   </channel>
 </rss>

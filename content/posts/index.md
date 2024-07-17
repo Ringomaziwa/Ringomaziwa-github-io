@@ -8,7 +8,7 @@ featured_image: "image/1.jpg"
 # images is optional, but needed for showing Twitter Card
 images: []
 categories: 杂
-comment: true
+comment: ture
 draft: flase
 ---
 你们的生命是鸟的飞行，

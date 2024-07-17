@@ -23,3 +23,7 @@ weight = 3
 [params]
 enableReadingTime=true
 
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark.renderer]
+    hardWraps = true

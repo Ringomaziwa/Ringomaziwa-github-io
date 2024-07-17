@@ -20,6 +20,11 @@ url = "/posts"
 name = "摘苹果"
 weight = 3
 
+[[menu.main]]
+url = "https://organstudies.github.io/"
+name = "小步的家"
+weight = 4
+
 [params]
 enableReadingTime=true
 

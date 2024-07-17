@@ -2,16 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 苹果乐园</title>
-    <link>https://ringomaziwa.github.io/Ringomaziwa-github-io/categories/</link>
+    <link>http://localhost:1313/Ringomaziwa-github-io/categories/</link>
     <description>Recent content in Categories on 苹果乐园</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://ringomaziwa.github.io/Ringomaziwa-github-io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jul 2024 22:50:11 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/Ringomaziwa-github-io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chinese</title>
-      <link>https://ringomaziwa.github.io/Ringomaziwa-github-io/categories/chinese/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ringomaziwa.github.io/Ringomaziwa-github-io/categories/chinese/</guid>
+      <title>日记</title>
+      <link>http://localhost:1313/Ringomaziwa-github-io/categories/%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Wed, 17 Jul 2024 22:50:11 +0800</pubDate>
+      <guid>http://localhost:1313/Ringomaziwa-github-io/categories/%E6%97%A5%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>杂</title>
+      <link>http://localhost:1313/Ringomaziwa-github-io/categories/%E6%9D%82/</link>
+      <pubDate>Wed, 17 Jul 2024 01:55:26 +0800</pubDate>
+      <guid>http://localhost:1313/Ringomaziwa-github-io/categories/%E6%9D%82/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,20 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ringomaziwa.github.io/Ringomaziwa-github-io/categories/</loc>
+    <loc>http://localhost:1313/Ringomaziwa-github-io/categories/</loc>
+    <lastmod>2024-07-17T22:50:11+08:00</lastmod>
   </url><url>
-    <loc>https://ringomaziwa.github.io/Ringomaziwa-github-io/tags/chinese/</loc>
+    <loc>http://localhost:1313/Ringomaziwa-github-io/tags/</loc>
+    <lastmod>2024-07-17T22:50:11+08:00</lastmod>
   </url><url>
-    <loc>https://ringomaziwa.github.io/Ringomaziwa-github-io/categories/chinese/</loc>
+    <loc>http://localhost:1313/Ringomaziwa-github-io/2/</loc>
+    <lastmod>2024-07-17T22:50:11+08:00</lastmod>
   </url><url>
-    <loc>https://ringomaziwa.github.io/Ringomaziwa-github-io/content/</loc>
+    <loc>http://localhost:1313/Ringomaziwa-github-io/tags/%E5%BA%9F%E8%AF%9D/</loc>
+    <lastmod>2024-07-17T22:50:11+08:00</lastmod>
   </url><url>
-    <loc>https://ringomaziwa.github.io/Ringomaziwa-github-io/tags/</loc>
+    <loc>http://localhost:1313/Ringomaziwa-github-io/categories/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2024-07-17T22:50:11+08:00</lastmod>
   </url><url>
-    <loc>https://ringomaziwa.github.io/Ringomaziwa-github-io/tags/text/</loc>
+    <loc>http://localhost:1313/Ringomaziwa-github-io/</loc>
+    <lastmod>2024-07-17T22:50:11+08:00</lastmod>
   </url><url>
-    <loc>https://ringomaziwa.github.io/Ringomaziwa-github-io/content/post/chinese/</loc>
+    <loc>http://localhost:1313/Ringomaziwa-github-io/tags/poem/</loc>
+    <lastmod>2024-07-17T01:55:26+08:00</lastmod>
   </url><url>
-    <loc>https://ringomaziwa.github.io/Ringomaziwa-github-io/</loc>
+    <loc>http://localhost:1313/Ringomaziwa-github-io/categories/%E6%9D%82/</loc>
+    <lastmod>2024-07-17T01:55:26+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Ringomaziwa-github-io/posts/</loc>
+    <lastmod>2024-07-17T01:55:26+08:00</lastmod>
   </url>
 </urlset>

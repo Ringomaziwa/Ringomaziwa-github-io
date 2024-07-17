@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 苹果乐园</title>
+    <link>http://localhost:1313/Ringomaziwa-github-io/posts/</link>
+    <description>Recent content in Posts on 苹果乐园</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jul 2024 01:55:26 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/Ringomaziwa-github-io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>繁花中的苹果树</title>
+      <link>http://localhost:1313/Ringomaziwa-github-io/posts/my-first-post/</link>
+      <pubDate>Wed, 17 Jul 2024 01:55:26 +0800</pubDate>
+      <guid>http://localhost:1313/Ringomaziwa-github-io/posts/my-first-post/</guid>
+      <description>你们的生命是鸟的飞行， 在寂静中开始和结束 ——开始和结束， 其形式重复着从白桦树到苹果树的这条弧线。</description>
+    </item>
+  </channel>
+</rss>
